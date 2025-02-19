@@ -1,0 +1,48 @@
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\appsettings.Development.json
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\appsettings.json
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Address Book.exe
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Address Book.deps.json
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Address Book.runtimeconfig.json
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Address Book.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Address Book.pdb
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.csproj.AssemblyReference.cache
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.AssemblyInfoInputs.cache
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.AssemblyInfo.cs
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.csproj.CoreCompileInputs.cache
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.MvcApplicationPartsAssemblyInfo.cs
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.MvcApplicationPartsAssemblyInfo.cache
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets.build.json
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets.development.json
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.Address Book.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.build.Address Book.props
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Address Book.props
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Address Book.props
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\scopedcss\bundle\Address Book.styles.css
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.dll
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\refint\Address Book.dll
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.pdb
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address Book.genruntimeconfig.cache
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\ref\Address Book.dll
+D:\Software\Address Book\API\Address Book\bin\Debug\net8.0\Address Book.staticwebassets.endpoints.json
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.Address Book.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Software\Address Book\API\Address Book\obj\Debug\net8.0\Address .57687CB9.Up2Date
