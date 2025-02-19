@@ -2,6 +2,10 @@
 
 The Address Book WebApp is a simple and efficient web application that allows users to store, manage, and search for contact information. Built using modern web technologies, this project provides an intuitive interface for adding, editing, and deleting contacts while ensuring data persistence and easy access.
 
+
+![Alt text](Screenshot.png)
+
+
 ## Getting Started
 
 These instructions will guide you through setting up the project on your local machine for development and testing. See the deployment section for notes on how to deploy the project on a live system.
